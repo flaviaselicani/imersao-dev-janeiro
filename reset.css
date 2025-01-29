@@ -80,6 +80,7 @@ mark,
 audio,
 video {
   text-decoration: none;
+  text-transform: none;
   margin: 0;
   padding: 0;
   border: 0;
